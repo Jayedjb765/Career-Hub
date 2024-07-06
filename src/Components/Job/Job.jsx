@@ -25,7 +25,7 @@ const Job = ({ job }) => {
             
 
         </div>
-        <div className="card-actions justify-center">
+        <div className="card-actions ">
           <button className="btn bg-sky-400 text-white  font-extrabold  "> View Details</button>
         </div>
       </div>
